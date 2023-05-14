@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "joi": "^17.9.2",
+    "promise-mysql": "^5.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "api-aula",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
